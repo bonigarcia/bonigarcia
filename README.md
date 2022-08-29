@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an open source enthusiast, committer at [Selenium](https://github.com/SeleniumHQ/) and creator of [WebDriverManager](https://bonigarcia.dev/webdrivermanager/). See more info about me on my [web page](https://bonigarcia.dev/).
+I am an open source and test automation enthusiast, committer at [Selenium](https://github.com/SeleniumHQ/) and creator of [WebDriverManager](https://bonigarcia.dev/webdrivermanager/). See more info about me on my [web page](https://bonigarcia.dev/).
 
 If you like my work, please consider nominating me for the [GitHub Stars](https://stars.github.com/nominate/) program.
 
