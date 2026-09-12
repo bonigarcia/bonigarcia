@@ -5,3 +5,12 @@ I am an open source and test automation enthusiast, member of the [Selenium](htt
 My book *Context Engineering: Build consistent, accurate, predictable AI systems* is currently in MEAP. Check it out in [Manning](https://hubs.la/Q04ksQ8J0). Repo [here](https://github.com/bonigarcia/context-engineering).
 
 [![](https://bonigarcia.dev/context-engineering/img/context-engineering-MEAP-cover.png)](https://hubs.la/Q04ksQ8J0)
+
+---
+
+### GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonigarcia&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonigarcia&layout=compact&theme=default)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonigarcia&theme=github)
