@@ -10,7 +10,4 @@ My book *Context Engineering: Build consistent, accurate, predictable AI systems
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bonigarcia&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonigarcia&layout=compact&theme=default)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bonigarcia&theme=github)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bonigarcia)
