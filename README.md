@@ -8,16 +8,16 @@ My book *Context Engineering: Build consistent, accurate, predictable AI systems
 
 ---
 
-### Some of my projects
-
-- [Selenium Manager](https://github.com/SeleniumHQ/selenium): official driver and browser manager, written in Rust and shipped with every Selenium binding (Java, JavaScript, Python, Ruby, and .NET).
-- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager): automated driver management and other helper features for Selenium in Java.
-- [context-engineering](https://github.com/bonigarcia/context-engineering): companion examples for the Context Engineering book, in Python, Java, and JavaScript.
-
----
-
 ### GitHub stats
 
 ![GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=bonigarcia&show_icons=true)
 ![Top languages](https://github-readme-stats-extended.vercel.app/api/top-langs?username=bonigarcia&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bonigarcia)
+
+---
+
+### Some of my projects
+
+- [Selenium Manager](https://github.com/SeleniumHQ/selenium): official driver and browser manager, written in Rust and shipped with every Selenium binding (Java, JavaScript, Python, Ruby, and .NET).
+- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager): automated driver management and other helper features for Selenium in Java.
+- [context-engineering](https://github.com/bonigarcia/context-engineering): companion examples for the Context Engineering book, in Python, Java, and JavaScript.
